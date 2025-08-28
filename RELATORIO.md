@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Rafael Viola
+**RA:** 10737197 
 
 ---
 
@@ -49,21 +49,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. Interface do Linux ser bem mais dificil de ser utilizada.
+2. Foi notado a gratuidade na liçenca do Linux, tendo em vista que a produção dos exercicios foi feita sem a necessidade de adquirir quaisquer liçenca.
+3. Personalização, o Linux se mostrou muito configuravél comparado ao Windows;
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+O Windows, levando em conta que sua interface e facil navegabilidade e compatibilidade com aplicativos do nosso dia a dia deixe mais simples a execução de tarefas curtas ou simples. 
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+Para um programador o Linux se mostra superior, devido a sua velocidade e ferramentas. Caso você utilize ele para esse tipo de caso ele se mostrara muito mais vantajoso.
 ```
 
 ---
@@ -75,21 +75,22 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+Porque o Linux é utilizado em servidores, ambientes de nuvem, segurança e desenvolvimento de software. Conhecer o sistema permite maior flexibilidade, autonomia e domínio de tecnologias essenciais no mercado.
+
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+Permite automatizar tarefas, gerenciar usuários e permissões, monitorar recursos, configurar redes e otimizar servidores. Isso aumenta a eficiência da gestão de TI, reduz custos e melhora a segurança da infraestrutura.
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Servidores Web 
+2. Servidores Banco de Dados
+3. Infraestrutura de Rede e Segurança
 ```
 
 ---
@@ -130,13 +131,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Sim, para a criação de outros projetos. Além de ter utilizado do GitHub Pages para deploy de paginas web.
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+O versionamento de código é fundamental para empresas porque garante o controle das mudanças realizadas em sistemas e aplicações. Ele permite que equipes trabalhem de forma colaborativa, evitando a perda de código e facilitando a identificação de erros ou falhas. Além disso, possibilita a rastreabilidade das alterações e a recuperação de versões anteriores, aumentando a segurança e a eficiência no desenvolvimento de software. 
 ```
 
 ---
@@ -148,13 +149,14 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+1. Limpeza de Logs e arquivos inutilizados. Assim tendo uma maquina mais veloz e otimizada.
+2. Criar um gerenciador de usuarios para uso compartilhado de computador. Assim mantendo a segurança dentro da minha rede privada.
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Não, na minha visão o ideal seria utilizar de uma maquina dual boot, usando o Linux quando necessario e o Windows quando necessario, assim criando um workspace ideal para qualquer tipo de atividade.
 ```
 
 ---
@@ -164,13 +166,13 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+A forma como os exercicios, duvidas, etc... são apresentados via GitHub. De uma forma clara, objetiva e quebrando objeções como possiveis erros ou duvidas.
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+Devido a pouca quantidade de aulas ainda não consigo criar uma opnião sobre melhorias. 
 ```
 
 ---
