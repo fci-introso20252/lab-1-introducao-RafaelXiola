@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-RafaelXiola/exemplos
+/workspaces/lab-1-introducao-RafaelXiola
+/workspaces/lab-1-introducao-RafaelXiola/docs
+/workspaces/lab-1-introducao-RafaelXiola/outputs
+/workspaces/lab-1-introducao-RafaelXiola
+/workspaces/lab-1-introducao-RafaelXiola
