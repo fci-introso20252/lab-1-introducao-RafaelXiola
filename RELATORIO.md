@@ -25,19 +25,19 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+Os comandos GIT (Git Add | Git Commit | Git Push) pois eles auxiliam em realizar os commits de forma rapida e eficiente.
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+Tree, para entender a estrutura do codigo 
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim, encontrei algumas dificuldades mas todas foram sanadas com a explicação
 ```
 
 ---
@@ -102,24 +102,24 @@ Permite automatizar tarefas, gerenciar usuários e permissões, monitorar recurs
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: 22
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: 40K
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. pwd
+2. ls
+3. cp
+4. greep (menos usado)
+5. cat (menos usado)
 ```
 
 ---
@@ -181,10 +181,10 @@ Devido a pouca quantidade de aulas ainda não consigo criar uma opnião sobre me
 
 Antes de enviar, verifique:
 
-- [ ] Preenchi todas as seções do relatório
-- [ ] Completei todos os exercícios em EXERCICIOS.md
-- [ ] Salvei todos os outputs na pasta outputs/
-- [ ] Criei o diretório meu_diretorio com os arquivos solicitados
-- [ ] Fiz git add, commit e push
+- [X] Preenchi todas as seções do relatório
+- [X] Completei todos os exercícios em EXERCICIOS.md
+- [X] Salvei todos os outputs na pasta outputs/
+- [X] Criei o diretório meu_diretorio com os arquivos solicitados
+- [X] Fiz git add, commit e push
 
 ---
